@@ -1,7 +1,7 @@
 ## Olá, Aqui é o Gabriel Macorin
 
 Cientista de Dados com experiência em desenvolvimento de sistemas e machine learning. Atuo em projetos de análise preditiva e prescritiva, machine learning e machine learning engineering.
-Principais ferramentas: Python, SQL, Git, Databricks, Pyspark. 
+<br/> Principais ferramentas: Python, SQL, Git, Databricks, Pyspark. 
 
 
 
