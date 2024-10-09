@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá, Aqui é o Gabriel Macorin
+
+Sou formado em Análise e Desenvolvimento de Sistemas, com vasta experiência na área de tecnologia da informação. 
+Iniciei minha carreira como desenvolvedor de sistemas e, posteriormente, migrei para Ciência de Dados, motivado pela paixão por desafios e pelo constante aprendizado que essa área proporciona.
+
+Ao longo da minha trajetória profissional, tive a oportunidade de atuar em projetos nos setores bancário, varejista, urbano e de impostos, o que me proporcionou uma sólida experiência em análise preditiva e prescritiva, coleta, tratamento e armazenamento de dados e modelagem de machine learning em projetos como: análise e tratamento de dados geolocalizados, automação de processos, clusterização e classificação de clientes, e forecasting.
+
+
+
 
 <!--
 **gabrielmacorin/gabrielmacorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
